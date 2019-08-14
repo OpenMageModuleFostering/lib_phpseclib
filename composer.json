@@ -1,0 +1,11 @@
+{
+    "name": "OpenMageModuleFostering/lib_phpseclib",
+    "type": "magento-module",
+    "license": "",
+    "homepage": "",
+    "description": "",
+    "authors": null,
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
