@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Lib_Phpseclib",
+    "name": "openmage-module-fostering\/lib_phpseclib",
     "type": "magento-module",
     "license": "LGPL-v.3",
     "homepage": "",
