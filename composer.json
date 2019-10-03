@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Lib_Phpseclib",
+    "name": "OpenMageModuleFostering\/Lib_Phpseclib",
     "type": "magento-module",
     "license": "LGPL-v.3",
     "homepage": "",
     "description": "Phpseclib Library",
     "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+        {
+            "name": "Magento Core Team",
+            "email": "core@magentocommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
